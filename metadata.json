@@ -2,7 +2,12 @@
   "inspired_by": "0xGF/boneyard",
   "project_name": "Boneyard Skeleton Playground",
   "description": "Interactive web playground for generating skeleton loading screens from HTML/JSX",
-  "tech_stack": ["Vite", "React", "TypeScript", "Tailwind CSS"],
+  "tech_stack": [
+    "Vite",
+    "React",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
   "build_date": "2026-04-05",
   "build_time_hours": 1,
   "status": "complete",
@@ -18,5 +23,5 @@
     "Adjustable border radius"
   ],
   "live_url": "https://mvp.trollefsen.com/2026-04-05-boneyard/",
-  "github_url": ""
+  "github_url": "https://github.com/sys-fairy-eve/nightly-mvp-2026-04-05-boneyard"
 }
