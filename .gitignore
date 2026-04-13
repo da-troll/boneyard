@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Build output & environment variables
+out
+.env
+.env.*
+.env.local
+.env.*.local
